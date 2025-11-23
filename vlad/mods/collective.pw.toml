@@ -1,0 +1,13 @@
+name = "Collective"
+filename = "collective-1.21.2-7.89.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/GnwIlslS/collective-1.21.2-7.89.jar"
+hash-format = "sha512"
+hash = "0d5315efb866e838167fcff454e11e93e489f9f0ca550ec5d915e7e599a757cf32e0f5ecfd241b2c1b87417c17d9d103c08170b19f959ca7acb81e7fdcd98a93"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "GnwIlslS"

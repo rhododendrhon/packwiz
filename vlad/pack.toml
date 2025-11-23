@@ -1,0 +1,13 @@
+name = "vlad"
+author = "rho"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0ca10033a732e1a37ab4b62cbf1a0ad02223148ab1fbfd1b6b48165cb2e64379"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.2"

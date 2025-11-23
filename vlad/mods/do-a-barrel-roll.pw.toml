@@ -1,0 +1,13 @@
+name = "Do a Barrel Roll"
+filename = "do_a_barrel_roll-fabric-3.8.1+1.21.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/oadY9xkk/do_a_barrel_roll-fabric-3.8.1%2B1.21.2.jar"
+hash-format = "sha512"
+hash = "e4e4b0de23f799d08abaabffe431f0df0b238acaab42c76da487f70478aa04a94ee52ab1b04ce904901517906627d692b6bf36aa2d517927ad44c7463f2c0779"
+
+[update]
+[update.modrinth]
+mod-id = "6FtRfnLg"
+version = "oadY9xkk"

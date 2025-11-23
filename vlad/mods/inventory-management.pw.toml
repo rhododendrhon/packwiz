@@ -1,0 +1,13 @@
+name = "Inventory Management"
+filename = "inventorymanagement-1.6.0+1.21.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F7wXag4i/versions/psva40MN/inventorymanagement-1.6.0%2B1.21.2.jar"
+hash-format = "sha512"
+hash = "11dad18fcfba1bb1c154fa56ad5f66e5491658c819a99d6a0e9f373c3019a2a7a03fffb35e4458934926d82ec3b6a30f2d9044993e30ea4250cc1562ce984c0f"
+
+[update]
+[update.modrinth]
+mod-id = "F7wXag4i"
+version = "psva40MN"

@@ -1,0 +1,13 @@
+name = "Despawning Eggs Hatch"
+filename = "despawningeggshatch-1.21.2-4.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iKRtwScn/versions/biqpMJor/despawningeggshatch-1.21.2-4.4.jar"
+hash-format = "sha512"
+hash = "23b26913eedde2c9de8fe7450bf53ca3d9064d0a31c2932c145e9c434f1d7aeab7822fb7f05ac3babfa0523a354d55f479792c8e444e1b3b1381929b4d88558a"
+
+[update]
+[update.modrinth]
+mod-id = "iKRtwScn"
+version = "biqpMJor"

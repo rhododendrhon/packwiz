@@ -1,0 +1,13 @@
+name = "Controlify (Controller support)"
+filename = "controlify-2.4.3+1.21.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/xpxLpcU2/controlify-2.4.3%2B1.21.3-fabric.jar"
+hash-format = "sha512"
+hash = "36ddae486218dd1c3e5c9fe64cec7b577637c9f820c2803142a80cbb8f589b2bc51fc0125dd3e91110f90e081f7d6bea8e5fb110230ef14001a180ca3711f175"
+
+[update]
+[update.modrinth]
+mod-id = "DOUdJVEm"
+version = "xpxLpcU2"
