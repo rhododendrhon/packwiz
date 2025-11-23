@@ -41,11 +41,6 @@ hash = "f89c0556e0ad83096f77a6b9768b0438303558e809e216211102fe91f1a630a2"
 metafile = true
 
 [[files]]
-file = "mods/better-beds.pw.toml"
-hash = "a43492040e45305f589df95d46877242b2859afed5579e88bfd37f744e3e09b7"
-metafile = true
-
-[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "6efbd1913026d23d6e5e641d963813ddfbed9e9676b5621b1c2414ef1af575e7"
 metafile = true
@@ -53,16 +48,6 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "193d5e761da6e90a51d40f2a5827cb900ec7643f0aff7e6527578fba53f341ec"
-metafile = true
-
-[[files]]
-file = "mods/boat-item-view.pw.toml"
-hash = "c9a92688a7ef3a61246e5a5ed82fb175fb7685bbf14ba1d832026984fd1f1945"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "0f8a9c9c738ec1ee47d2b45813a922d0907d22865572e65526021c055b9a3f07"
 metafile = true
 
 [[files]]
@@ -108,11 +93,6 @@ metafile = true
 [[files]]
 file = "mods/connected-glass.pw.toml"
 hash = "5402f8593836c19cd24f94fc7eae89994eee3422422cf72c19294b25279a4496"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "6c4b8c59aa013d5ace5a692908020d9ecd7230da4ed82ca03d8bd7d95673a899"
 metafile = true
 
 [[files]]
@@ -356,11 +336,6 @@ hash = "28ca6fb8a27dbf51d4f0792fb7c31a41006031d973ab301c9018f1a6549f0293"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "42e99ea03a01f933a334dfdfb6babbdcc5d9b38c076e4d3c821a96a9730318b7"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "4b1ed2dcc7a44ff96fa7ff2fd46f0b67ce40a7acad1cc9e72de6b63312ab6252"
 metafile = true
@@ -518,11 +493,6 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "d56c655994be15125236d3ad5aa0bcf0d40932a87951a572890f0f306ae47f37"
-metafile = true
-
-[[files]]
-file = "mods/wakes.pw.toml"
-hash = "f47b75ab81d6334bf93962de5537a7889a80ac587a833cf582262b8694b135b0"
 metafile = true
 
 [[files]]
