@@ -1,0 +1,13 @@
+name = "BlueMap Sign Markers"
+filename = "bluemapsignmarkers-1.21.10-0.14.0.65-alpha.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/i5ZtmNIW/versions/jETQe6nt/bluemapsignmarkers-1.21.10-0.14.0.65-alpha.jar"
+hash-format = "sha512"
+hash = "093e61e686b18cc718813b919fd814293e56d93ce5d64ba80dc5cb63568029bba75f320153a669e1bfa14ffd993d3c14174434d13f63ed642322a64c2ba9d8b4"
+
+[update]
+[update.modrinth]
+mod-id = "i5ZtmNIW"
+version = "jETQe6nt"
