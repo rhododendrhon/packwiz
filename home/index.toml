@@ -24,3 +24,13 @@ metafile = true
 file = "mods/lithium.pw.toml"
 hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "b8d8baa92ce40cb057db58d28cfd86b40adf98f46cfa3033007fd85796cd3576"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "6a68d5f4bfc6cc510c572cda546ba1b3cbb4eb95c025fab3fa1974b9e21e6887"
+metafile = true
