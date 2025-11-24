@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/test.txt"
+hash = "97360090b0df1ec2143596171cfada4ca8790c423d5715cdbf55fd33045e2555"
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "04cb3ee26933b77b5bf87660921801171536ccee2ab16572232b287f86cc2ae8"
 metafile = true

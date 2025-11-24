@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/test.txt"
+hash = "97360090b0df1ec2143596171cfada4ca8790c423d5715cdbf55fd33045e2555"
+
+[[files]]
 file = "mods/bluemap-sign-markers.pw.toml"
 hash = "bafc7001703896204306a48e6c5965284e99c49ba05e50f634249c87c39aae7d"
 metafile = true
