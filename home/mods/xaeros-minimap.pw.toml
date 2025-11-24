@@ -13,6 +13,6 @@ mod-id = "1bokaNcj"
 version = "hztxb2W2"
 
 [option]
-optional = true
+optional = false
 default = true
 description = "Minimap mod"

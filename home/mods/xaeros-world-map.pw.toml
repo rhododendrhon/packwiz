@@ -13,6 +13,6 @@ mod-id = "NcUtCpym"
 version = "81Qc21E2"
 
 [option]
-optional = true
+optional = false
 default = true
 description = "Map mod (works with minimap)"
