@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/connected-glass.pw.toml"
-hash = "5402f8593836c19cd24f94fc7eae89994eee3422422cf72c19294b25279a4496"
+hash = "ee0a15d793528365e7c616b217145bb2b24c696858da1e8b57843026f3d7fdaf"
 metafile = true
 
 [[files]]
@@ -497,11 +497,6 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "d56c655994be15125236d3ad5aa0bcf0d40932a87951a572890f0f306ae47f37"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "2f6cf44d47b89ac8560433aab6509f973c07b88db45fafa8cbf55aa7bd916e69"
 metafile = true
 
 [[files]]
