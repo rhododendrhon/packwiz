@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/connected-glass.pw.toml"
-hash = "ee0a15d793528365e7c616b217145bb2b24c696858da1e8b57843026f3d7fdaf"
+hash = "5402f8593836c19cd24f94fc7eae89994eee3422422cf72c19294b25279a4496"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "cf7fa2f3f792ec5a97beb145b8618747040b36e9fd05bfaa681ad8ba8fdf8784"
+hash = "58f5a82f9112b0a4213326e7ef4944228e175552e53c64166bdf81b62fa4612e"
 metafile = true
 
 [[files]]
