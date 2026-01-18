@@ -6,35 +6,35 @@ hash = "97360090b0df1ec2143596171cfada4ca8790c423d5715cdbf55fd33045e2555"
 
 [[files]]
 file = "mods/bluemap-sign-markers.pw.toml"
-hash = "bafc7001703896204306a48e6c5965284e99c49ba05e50f634249c87c39aae7d"
+hash = "8d99b09c64baa027cf72d91521338847de5f66783a66fd24c7404235edd9d26e"
 metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "24737d4ec343e590df0fb597f52bd792557300b659b828492bfd51d63c1fe52d"
+hash = "853ba2ec022456ae2f357268a27c7cb1018b0c57e0c1e9071330f81e035f59f9"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
+hash = "39b4f43a271700276ff1ae632cf05f90b85f79670d955b50ced036e363a0efe9"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+hash = "ee8cbde93306796c1a4a3535672b364c27a1eebd75185838c7961cc2895027a0"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
+hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "92e01108f34bfccb303f4c06ff657c0696e798afad9c463e5e62097c992174f0"
+hash = "6e7bb0f6fdfeb2e6cb175fbc20b3f0da9efe3f5105a63e8a21b6f6af5ce1279e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "90ccd6992678551ef128729313ebba29d35461eb6f3c2c813e81a14aa66959e6"
+hash = "aa6a6c1839137fd3a387704578aa3d8c33f3e5b5c1d46d5824d8b2e026afdf47"
 metafile = true
