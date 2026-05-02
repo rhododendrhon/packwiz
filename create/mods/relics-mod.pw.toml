@@ -1,0 +1,13 @@
+name = "Relics"
+filename = "relics-1.21.1-0.12.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OCJRPujW/versions/cQ706MLl/relics-1.21.1-0.12.0.jar"
+hash-format = "sha512"
+hash = "bdce7293664bd95726ab53107e621b9b7b91a95d33cd32d71a2adf4191c48480229157bbd506954ef1b55179a6129078bb2dc56224eefd5234ec4b0cc0ea413b"
+
+[update]
+[update.modrinth]
+mod-id = "OCJRPujW"
+version = "cQ706MLl"

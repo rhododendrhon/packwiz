@@ -1,0 +1,13 @@
+name = "Xaero's Maps x Waystones"
+filename = "xmxw-2.10.0+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iv2jCzkP/versions/BQqTBKCJ/xmxw-2.10.0%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "c5da8374c8fc96758d384e48d6023286e6c7c60709ea00a273a1fb05282efe5475bcbb4b2e339e426164c30537765861a27ad6f4985bfc904ec866176da925b8"
+
+[update]
+[update.modrinth]
+mod-id = "iv2jCzkP"
+version = "BQqTBKCJ"
