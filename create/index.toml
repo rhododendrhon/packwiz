@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "90f936b5bc3aa77315b35f4475ca529f12487f732c15782c6971e3f91d9905c9"
+hash = "c27afa0779ec479fe6811153607bf23d9242c2c93e02a23a03b934db4bb3f8c3"
 metafile = true
 
 [[files]]
@@ -136,6 +136,21 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "133e7c9295b9e7e8577b5ca36cf9548b4c590eeb0708fdeb9cb59c2758759ac8"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "3937618f06648f5ad0c7be0195b5fa75bf6d7464ee133bd59bb5b13753090de7"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
 metafile = true
@@ -148,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "702a028e2d428d352b4d664a21b0fb6182c20a930888a6c962f557aeba05871f"
 metafile = true
 
 [[files]]
@@ -181,11 +201,6 @@ hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "44dde164b3d9e130a8d8dd6ff84bfcc936825465b966a06c7358f0ddf3660fd0"
-metafile = true
-
-[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "e8100d935e20369ed13b31ea2423482eadd4c8ed123fd8e77320b12fa883dbb6"
 metafile = true
@@ -203,6 +218,16 @@ metafile = true
 [[files]]
 file = "mods/reliquified-ars-nouveau.pw.toml"
 hash = "9eef2d9253c5aa9395d35ff1c83ba904157ed8c4c8ddcf6ea6db26f4e2433416"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-artifacts.pw.toml"
+hash = "5eed555d96dcdf16f9aa088d4e2656f0254e422a2bdb0422b20fde7c05c34df5"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-forge.pw.toml"
+hash = "d967c67c523dcd335553c11d5741b650d60789465994285d41f0e1ff8eebfe5b"
 metafile = true
 
 [[files]]
@@ -238,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "d34ef6a8ae4fa661524b3d93467004430e66656ba762843d915aaca6a0c23f63"
+metafile = true
+
+[[files]]
+file = "mods/soulbound-enchantment.pw.toml"
+hash = "8d9d741f3b4a89c617f8ea7d4ba02c0b82e8703e441478f23633945a1a653988"
 metafile = true
 
 [[files]]
