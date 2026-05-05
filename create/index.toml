@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/test.txt"
-hash = "97360090b0df1ec2143596171cfada4ca8790c423d5715cdbf55fd33045e2555"
+file = "config/alexscaves-client.toml"
+hash = "0fec2c13452ecf683a9119a3897402f32f69e1adc0b09eabb5f1bc1565a253d2"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "8bc75578eb52243790a419fdcc75ac18ae428cef4091f952e68effea3bc446b3"
+
+[[files]]
+file = "config/yigd.json"
+hash = "0a9b43dc6d3b7829a26eceab0f7e86268d71fcc1b3dfa1f6d7fad2af7c252e6a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
