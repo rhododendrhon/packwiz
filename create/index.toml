@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/test.txt"
+hash = "97360090b0df1ec2143596171cfada4ca8790c423d5715cdbf55fd33045e2555"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
