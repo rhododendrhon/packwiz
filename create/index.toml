@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "9121b274bd87552ae976983d9bdd56061274c126a4a1b7b2e13605b1a1ec0599"
+hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "133e7c9295b9e7e8577b5ca36cf9548b4c590eeb0708fdeb9cb59c2758759ac8"
+hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "e8100d935e20369ed13b31ea2423482eadd4c8ed123fd8e77320b12fa883dbb6"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
 
 [[files]]
@@ -244,12 +244,12 @@ metafile = true
 
 [[files]]
 file = "mods/reestrogen.pw.toml"
-hash = "ff126ea1d1d07601c3761869bbc4ef20f8becba84c9eac298575b9aa9281d0fd"
+hash = "0a5582751a0aa37aad50e3c93682c61f76733bc24c1aa7b349a1386a967ebf6e"
 metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "ac00ddc5c3528db796cc939c91cc9d03d9f04e55474b68b0e4f094dc6d00fbc3"
+hash = "1d185d886430e308ae00528dd1b0dd7800cf42e4fdae284663df48f2463524f7"
 metafile = true
 
 [[files]]
@@ -294,12 +294,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "5d456b77b7ba6381ee745161d355843c52bdc20b0eab644bd6152dc669ae3d58"
+hash = "bce52f752c8d3bae9ed17dba8f96ec7ff3f1ab7032fe2258a9573e1a8657bb85"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "d34ef6a8ae4fa661524b3d93467004430e66656ba762843d915aaca6a0c23f63"
+hash = "e6f7c1b43dbb3a62dd8638228eb17a942a37e6aa50a8f32e9625769c6d4e090e"
 metafile = true
 
 [[files]]
@@ -319,22 +319,22 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "e2978597c04f24e2e0536a6aa666ef5cc0b1d515c09af1f763c65587faa73333"
+hash = "65242951f26a65cce20bcc2c796805b655046970ee8fe13990976e649fa6ba04"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-maps-x-waystones.pw.toml"
-hash = "062d65d0970b8824c15b2a4ea5f32ca8d1632cab4571ac996970ec5c79845770"
+hash = "2725e452921e2bd17ddf229183259201967781649245eebf9e51fb4b9f7043bb"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "02e2acc15a8c1b7bbe44a64af68574d7e024f1c45504a6997568c9fcbab3846b"
+hash = "d609fad21021c5578750019bbe247515af55b0d1284ef838e42ef4ad0d5fbff4"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "192a4685f8a182d1fa2fae67e2fad8b74ba547726beecfe8868174b4172d76a8"
+hash = "ac287f392613eddfa285620dcecb3fea25ee6232a201009cde5c5511b6a39fb9"
 metafile = true
 
 [[files]]

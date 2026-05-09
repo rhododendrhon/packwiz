@@ -1,13 +1,13 @@
 name = "ReEstrogen"
-filename = "reestrogen-2.5-neoforge-1.21.1.jar"
+filename = "reestrogen-2.7-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/BGUYUAbf/versions/d78NHLxz/reestrogen-2.5-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/BGUYUAbf/versions/5U0XDuiO/reestrogen-2.7-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "df7e910ca56ec80b16ee12cae48a9a004385c623e8f94d37033aa8d559c0d9f9893dcfc90699cb21f250bbb1f5da0be3732c654a01b22975f585a63599ddd5ce"
+hash = "2bcd2d7f4d1f2c1f2837646e718cdd75db50755ab1846c744b3778fa99eab60bd1155f4b2005b99307793f73b0e720fbc2823e4b853c16c65219ec2029fb08db"
 
 [update]
 [update.modrinth]
 mod-id = "BGUYUAbf"
-version = "d78NHLxz"
+version = "5U0XDuiO"
