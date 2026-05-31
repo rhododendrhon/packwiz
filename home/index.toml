@@ -16,12 +16,12 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
+hash = "2a2038d03535953809c97fbf7ae228459aa174979c211b5b183eea7a2a73b971"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "45abf05e1cc90006aeb65e4e1bbe97da5a1984f547ea8028a077dae68af0ac11"
+hash = "2ccce9c28059ea90a5457771de06a69b0a2d1f06d48f8add48a38f1a2307da3c"
 metafile = true
 
 [[files]]
@@ -36,12 +36,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "8b5294f2653b5794c1539b611aeb906c0a51602c013ee6078b96d9a0b094dfb6"
+hash = "ea9220724a97ae3d3b3934a9d1768f497e91199306d49816e27070a3c3bd189a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "78eebaf49e7d20455e48752e8e4586a0e4277e952f6633c6b04c6b8dc470aa3a"
+hash = "2e58acf91a251115128ed840466f3185d81d13dd17de7a7ce79dd96b733d662c"
 metafile = true
 
 [[files]]
