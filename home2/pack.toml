@@ -1,0 +1,12 @@
+name = "Elden's solo gaming 1.0.0"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4f8a19e7ab85da0dc2996911f96fe8cb3e35ad4f9f50c0f7dfbad38551a0a088"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

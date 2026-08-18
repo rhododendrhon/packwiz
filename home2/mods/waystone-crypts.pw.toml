@@ -1,0 +1,13 @@
+name = "Waystone Crypts"
+filename = "waystone_crypts-1.20.1-FORGE-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a670e3a7d77191b31d01e06fbaaf2373be3dc62b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6585232
+project-id = 1274440

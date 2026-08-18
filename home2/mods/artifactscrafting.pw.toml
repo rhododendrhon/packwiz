@@ -1,0 +1,13 @@
+name = "Artifacts Crafting"
+filename = "artifactscrafting-1.0.0-forge-1.20.1-RPG.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee868627937dd871c750006fd070a8745d6ff089"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8444002
+project-id = 1244616

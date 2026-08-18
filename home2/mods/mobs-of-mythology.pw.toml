@@ -1,0 +1,13 @@
+name = "Mobs of Mythology"
+filename = "mobs_of_mythology-forge-3.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8029219039770016f47eae50f8061f76d65627f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7808139
+project-id = 699989

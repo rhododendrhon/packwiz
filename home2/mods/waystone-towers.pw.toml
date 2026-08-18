@@ -1,0 +1,13 @@
+name = "Waystone Towers"
+filename = "waystone_towers-1.20.1-FORGE-1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c4e4ad722e2927d82ab26a2d42470f9247e4352"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6586786
+project-id = 686392
