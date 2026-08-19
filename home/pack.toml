@@ -1,4 +1,4 @@
-name = "home"
+name = "Vanilla+ Home Modpack"
 author = "rho"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e15b77f3f05970c72c750fb46ed31ee18fd4cf45a437fa16d837497581219fe3"
+hash = "60b9e7e7314687dc2724f6f858db394fbff9a2d3edc01176ef97e1728c68032c"
 
 [versions]
-fabric = "0.18.4"
-minecraft = "1.21.11"
+fabric = "0.19.3"
+minecraft = "26.2"
