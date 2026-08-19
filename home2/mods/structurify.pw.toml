@@ -3,11 +3,11 @@ filename = "structurify-forge-2.0.33+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "58d61777449009b909a79bca0bd63ce4e96adf0a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/yz7AM2zx/versions/x0hH5Y0z/structurify-forge-2.0.33%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "5972390b32efa3b080fa911c56e3506bb51f5cdd7d498a5c168bc35ecd3cd8541c4ba7321953dab507de681fce3cf7c3eed70007950e9616a4885d3703ff9d30"
 
 [update]
-[update.curseforge]
-file-id = 8639445
-project-id = 1087551
+[update.modrinth]
+mod-id = "yz7AM2zx"
+version = "x0hH5Y0z"

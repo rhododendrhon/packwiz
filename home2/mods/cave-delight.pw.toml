@@ -1,0 +1,13 @@
+name = "Cave Delight"
+filename = "Cave-Delight-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ha7rd4Gj/versions/qIHUB3MD/Cave-Delight-1.20.1-2.0.1.jar"
+hash-format = "sha512"
+hash = "2c2b9a35f911b26f452cf03c4ae1535b50ec46c6dff8507690d5fcb32fc3cd043fe9430b0895d1a6f776dd432ba333370f8b8b37a441c35bfb16fc0161a8d7ff"
+
+[update]
+[update.modrinth]
+mod-id = "Ha7rd4Gj"
+version = "qIHUB3MD"

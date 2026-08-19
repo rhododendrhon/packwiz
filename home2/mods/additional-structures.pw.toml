@@ -1,13 +1,13 @@
 name = "Additional Structures"
 filename = "AdditionalStructures-1.20.x-(v.4.2.2).jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "b0a03635fe02ecafdbf60782a5c6459149bf7f2a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/TWsbC6jW/versions/UOnYtYlg/AdditionalStructures-1.20.x-%28v.4.2.2%29.jar"
+hash-format = "sha512"
+hash = "ac7fa8bda6b97ac374680639d25832ef263dfce75151938935b17c6256f7faad60448fc404a54dea720b2863334f7aabd0dd517dcd7989cd9f69e95a8fa5f711"
 
 [update]
-[update.curseforge]
-file-id = 5690527
-project-id = 297680
+[update.modrinth]
+mod-id = "TWsbC6jW"
+version = "UOnYtYlg"

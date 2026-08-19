@@ -3,11 +3,11 @@ filename = "xaeroworldmap-forge-1.20.1-1.44.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d7cd24554d9c361b2d8d3efac2cb1408f118917d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/kQ06HixR/xaeroworldmap-forge-1.20.1-1.44.2.jar"
+hash-format = "sha512"
+hash = "5df9413dcf94d80247fa5a427eec3a8058434978f918b1d5e99f5f07cdcca02c47e664de84e3b0060af22aaced9d54a24827350a950337a431330d07f96b3095"
 
 [update]
-[update.curseforge]
-file-id = 8449908
-project-id = 317780
+[update.modrinth]
+mod-id = "NcUtCpym"
+version = "kQ06HixR"

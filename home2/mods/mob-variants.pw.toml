@@ -1,0 +1,13 @@
+name = "Mob Variants"
+filename = "mob-variants-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a7rM4clH/versions/udgaLSp8/mob-variants-1.0.0.jar"
+hash-format = "sha512"
+hash = "a7aeaa434019fb8d342c8ee845528f607b4043010a2748204a4dac030e0ab3c1e6a68460881758aeaeec5dbbec35459737d45ef41c28a363c162185f40bfda7b"
+
+[update]
+[update.modrinth]
+mod-id = "a7rM4clH"
+version = "udgaLSp8"

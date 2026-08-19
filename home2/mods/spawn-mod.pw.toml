@@ -3,11 +3,11 @@ filename = "spawn-4.0.7-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "611e59820306399d09405c3ffbc45e6e7f2e2e0f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/rex9wwpz/versions/zR1peDoK/spawn-4.0.7-1.20.1.jar"
+hash-format = "sha512"
+hash = "4e83d59ce4b9bc4ef42d53d687f1bb381216281fa3b62e47f44657a886c4c7f077b37fea07104f4979af23c7a7ec2704b9a1ceee75e8e9b6183f45a72662d5f6"
 
 [update]
-[update.curseforge]
-file-id = 8507217
-project-id = 935694
+[update.modrinth]
+mod-id = "rex9wwpz"
+version = "zR1peDoK"

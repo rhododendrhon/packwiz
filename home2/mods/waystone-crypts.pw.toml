@@ -1,13 +1,13 @@
 name = "Waystone Crypts"
 filename = "waystone_crypts-1.20.1-FORGE-1.1.0.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "a670e3a7d77191b31d01e06fbaaf2373be3dc62b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/oRAG2Wk5/versions/2025pqlE/waystone_crypts-1.20.1-FORGE-1.1.0.jar"
+hash-format = "sha512"
+hash = "57121e5cda5e71c70f57d67194ee37934558236ec40893b4959f515a51d40b8c20af5c34850acab0ea390eefde2a68631bfe45d8aed36573d3823b4cbfd82ae2"
 
 [update]
-[update.curseforge]
-file-id = 6585232
-project-id = 1274440
+[update.modrinth]
+mod-id = "oRAG2Wk5"
+version = "2025pqlE"

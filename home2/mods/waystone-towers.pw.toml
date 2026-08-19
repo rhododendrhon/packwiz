@@ -1,13 +1,13 @@
 name = "Waystone Towers"
 filename = "waystone_towers-1.20.1-FORGE-1.0.9.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "0c4e4ad722e2927d82ab26a2d42470f9247e4352"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/azBgcZIk/versions/oAQDOthF/waystone_towers-1.20.1-FORGE-1.0.9.jar"
+hash-format = "sha512"
+hash = "5f163054e5acc602c839c1d947edb8e2d873f45737da48cb0e7428d4b3b0998a2ccd8e19e278d93da002433a086a7d72c34f1b4f2b4a03dd3b6dfb8c4addd723"
 
 [update]
-[update.curseforge]
-file-id = 6586786
-project-id = 686392
+[update.modrinth]
+mod-id = "azBgcZIk"
+version = "oAQDOthF"

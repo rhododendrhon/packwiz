@@ -3,11 +3,11 @@ filename = "mowziesmobs-1.8.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "25ffcd175cc03650e38e60d3cb7b3e038d9d3345"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/BFbX9xcm/versions/acYEfsJa/mowziesmobs-1.8.2.jar"
+hash-format = "sha512"
+hash = "c1c5f7b8cba4dbbe57f8eb7150bea94a72076ef4ae923adf7fe1147eef703e4fedc7914a12d51fb4152faccaad94c4053ce3ff21cca8905bf2da17de61db43b0"
 
 [update]
-[update.curseforge]
-file-id = 7815705
-project-id = 250498
+[update.modrinth]
+mod-id = "BFbX9xcm"
+version = "acYEfsJa"

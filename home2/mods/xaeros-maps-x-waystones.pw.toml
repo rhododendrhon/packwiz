@@ -1,13 +1,13 @@
 name = "Xaero's Maps x Waystones"
 filename = "xmxw-2.11.1+1.20.1-forge.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "366b2472b485279dc444d02c6d9a2ba9ebbfd506"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/iv2jCzkP/versions/XT6ZGoxT/xmxw-2.11.1%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "d3a714063b646147588d8c4ad993a5f57ba31692e38e789c0037e521ba1f7509a50fb90fac0e9765a392d0a4b95ab3fc547cdcded4b027c6a264ceeb70ad4d7d"
 
 [update]
-[update.curseforge]
-file-id = 8346558
-project-id = 1340197
+[update.modrinth]
+mod-id = "iv2jCzkP"
+version = "XT6ZGoxT"

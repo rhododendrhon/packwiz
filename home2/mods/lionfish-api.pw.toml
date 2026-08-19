@@ -1,13 +1,13 @@
-name = "Lionfish API"
+name = "Lionfish-API"
 filename = "lionfishapi-3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "79d0404f87fa066480b18c844c1e0b1c5f5475f9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/FoVacERa/versions/CPftDBcY/lionfishapi-3.0.jar"
+hash-format = "sha512"
+hash = "a7cf6c9bf27a77b45efe434a166f9c99efdb6db14e5d88ce8417c6364aea9d250a9f43627e9e0ac162e106517fccf51cebb5035852c8449fb7fb299a083770c4"
 
 [update]
-[update.curseforge]
-file-id = 8095554
-project-id = 1001614
+[update.modrinth]
+mod-id = "FoVacERa"
+version = "CPftDBcY"

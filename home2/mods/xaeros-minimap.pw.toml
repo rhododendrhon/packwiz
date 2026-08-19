@@ -3,11 +3,11 @@ filename = "xaerominimap-forge-1.20.1-26.4.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8f5f747a33e787aaa3827b00eb0ad098966499ff"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/A1JacFsh/xaerominimap-forge-1.20.1-26.4.2.jar"
+hash-format = "sha512"
+hash = "6bf30d544f79e7ecf0a2522c1294cb8bbb1eaf731f428b1ae10edce20d0eacf831f407625c844bf4ee84816a78897a206e59525a0fb4722c4081d330b0c12500"
 
 [update]
-[update.curseforge]
-file-id = 8449808
-project-id = 263420
+[update.modrinth]
+mod-id = "1bokaNcj"
+version = "A1JacFsh"

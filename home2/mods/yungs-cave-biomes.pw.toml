@@ -1,13 +1,13 @@
-name = "YUNG's Cave Biomes (Forge/NeoForge)"
+name = "YUNG's Cave Biomes"
 filename = "YungsCaveBiomes-1.20.1-Forge-2.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c0a57a7d5a0cea0297f82a482490fc1e7933695f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/cs7iGVq1/versions/UzIwhtOp/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar"
+hash-format = "sha512"
+hash = "c09d75eec4a9e4245e2f0a7cb0b64b6da70ccd46b3d351c2d6baded3deb2f15f6980229be40cc85557b2ccd468f5a4d6b74bb28190723647076aba49bebcaf36"
 
 [update]
-[update.curseforge]
-file-id = 6606910
-project-id = 1111586
+[update.modrinth]
+mod-id = "cs7iGVq1"
+version = "UzIwhtOp"
