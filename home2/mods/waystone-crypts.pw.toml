@@ -1,6 +1,6 @@
 name = "Waystone Crypts"
 filename = "waystone_crypts-1.20.1-FORGE-1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/oRAG2Wk5/versions/2025pqlE/waystone_crypts-1.20.1-FORGE-1.1.0.jar"

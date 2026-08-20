@@ -467,12 +467,12 @@ metafile = true
 
 [[files]]
 file = "mods/waystone-crypts.pw.toml"
-hash = "09cfd46ba6dc3d9882186c99489157f9d066b5f1803ae61adb0562f11413dedf"
+hash = "ccf3d3c66148e28fe13ec49aec6fa195e0cebbe57bef23bc90ca6e8b4564d0cc"
 metafile = true
 
 [[files]]
 file = "mods/waystone-towers.pw.toml"
-hash = "1a4280320d53317285eedbe2f0d69e3e2146432814004ac5f6613398f2f4c25b"
+hash = "3442c4932814361dd08e93c2f65a0e781bdee6eb9a7951e1d4fe538fc71403be"
 metafile = true
 
 [[files]]
