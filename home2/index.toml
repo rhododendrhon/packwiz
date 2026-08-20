@@ -156,11 +156,6 @@ hash = "43318771f3da8d7c491c45f58dc72055e5c7ef8af44f947d9d206c9e6db27f22"
 metafile = true
 
 [[files]]
-file = "mods/eeeabs-mobs-custom-bossbars.pw.toml"
-hash = "0780fb8664c9d62251e52f71401973039642886ecbec25c465abc3bbe55a9d4e"
-metafile = true
-
-[[files]]
 file = "mods/elysium-api.pw.toml"
 hash = "4e77452de64a8038260a173a36702830e264bf23b47bc12f33ebbcdc52e8d519"
 metafile = true
@@ -579,3 +574,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "743e4ac214adfb6d757f50987cbdcb449bf92d075bcebf7f7a739d8cd1d2e2f1"
 metafile = true
+
+[[files]]
+file = "server-icon.png"
+hash = "66b933611050428df9660535f86ca1e8f8b12c66ce6277f029925ff7bf8a8c5a"
