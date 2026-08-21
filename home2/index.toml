@@ -451,6 +451,11 @@ hash = "131c818cca79586fdca0535062a63581e7c438efd108be4403ab8faea92e6368"
 metafile = true
 
 [[files]]
+file = "mods/universal-settings.pw.toml"
+hash = "bdfc076f33b7be3da1eb36f9c3711c9e2010129d569454dd22fe437ed77e85d5"
+metafile = true
+
+[[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "4f3e09adabc09ed19e010fccad8b7c2ca210b19370381007bec43bf822f61b9a"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Universal Settings"
+filename = "universalsettings-fabric-26.2-0.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1XpIQ46r/versions/WuDHTrIS/universalsettings-fabric-26.2-0.1.1.jar"
+hash-format = "sha512"
+hash = "e461dd8fdb9c9e610cbf3c34f01a64252ec849b99a3ab8ebecadb4b5f04f36cc10c299c5969d8204aa25538e0e83fea56e09403ad17bbf1bdb35fd9732ca8886"
+
+[update]
+[update.modrinth]
+mod-id = "1XpIQ46r"
+version = "WuDHTrIS"

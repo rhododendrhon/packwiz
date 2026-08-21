@@ -1,0 +1,13 @@
+name = "Universal Settings"
+filename = "universalsettings-forge-1.20.1-0.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1XpIQ46r/versions/8kypgvmq/universalsettings-forge-1.20.1-0.1.1.jar"
+hash-format = "sha512"
+hash = "78b6ff7a4a313379342bc9787ba54613ee92d07397a44841c3542bb3e088257e61def68f9bb354dc463ee53b0981e28a9c94158b655f9bdde866b5582b117361"
+
+[update]
+[update.modrinth]
+mod-id = "1XpIQ46r"
+version = "8kypgvmq"
