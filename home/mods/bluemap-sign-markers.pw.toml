@@ -1,13 +1,13 @@
 name = "BlueMap Sign Markers"
-filename = "bluemapsignmarkers-26.2-0.19.0.81-alpha.jar"
+filename = "bluemapsignmarkers-26.3-1.0.1.89.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/i5ZtmNIW/versions/PDWEqkkZ/bluemapsignmarkers-26.2-0.19.0.81-alpha.jar"
+url = "https://cdn.modrinth.com/data/i5ZtmNIW/versions/qZJzMzBN/bluemapsignmarkers-26.3-1.0.1.89.jar"
 hash-format = "sha512"
-hash = "90f49d0c7ba41be3bc1c632d2168ef752b0793548b039a30aa6087b1d078a784d834b995fec15a40375d482b6f8f2dff1937f330489c71ef5e6c46f91d6a9241"
+hash = "cf6de212b1bdf9b057ed5a34f817c9e12aa2361e9783a0e3bd7b83ce3029b005615c2a6b52f739171c27f60d587bddf52e83ace4850a2ea4c291acf7aad3c5a5"
 
 [update]
 [update.modrinth]
 mod-id = "i5ZtmNIW"
-version = "PDWEqkkZ"
+version = "qZJzMzBN"

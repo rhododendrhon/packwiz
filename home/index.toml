@@ -6,47 +6,47 @@ hash = "97360090b0df1ec2143596171cfada4ca8790c423d5715cdbf55fd33045e2555"
 
 [[files]]
 file = "mods/bluemap-sign-markers.pw.toml"
-hash = "d777c6a035304d0a5597790cdbfafadf1a6e2bd885dbdfb52cfed6e831e51f9a"
+hash = "926a50818bd92e504d8f0e0710218d0a24066fc54a794fe31649efb8ae17a5d4"
 metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "6414916464a96592f62fc2ed4dee6963422cd9e4e39ef35069e4ab659b6ce56d"
+hash = "b3caf8e25c2a3487d1e0d45bd57ec3839e949d7ee4d28ae9645c4b8e76624f30"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "ce280969fa45ec982f36067934c36f76098dcf8b0c71bab46691e6b5b8e9664e"
+hash = "8cfd619edd7190fdd7f048bc7815193699d0583857f988e421b8e7816167ad25"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7ed424f5ce1febe2c2c0e5fc58d34858f1bbd97eabdceb9b9c6afdde4bf578df"
+hash = "79de372a05dde6ee4f23ced936835dbd9d43b64ba61ae1990cb0e59dce460e6a"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "e922d7300eba8cfbd9aa31ba475cf6fcbcf11d74e89a0314ada18d58f08a2634"
+hash = "4d8432eed6984a86acf6c9f056755b3f9082eb8fcb5b3f37e96498e7871e40c9"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "a5ee497ec151dd6e6b946091e12e2c56362e5c772c4b8ea175b2e81277cc708d"
+hash = "b44f3ab71e52f1aaae97cf8644f2316042de8b7777d6b6794567c8c7d220bd2b"
 metafile = true
 
 [[files]]
 file = "mods/universal-settings.pw.toml"
-hash = "4a4df3dd41e26d649fdb081729ca6058593939f95ef195d2d45f5ab757e61adb"
+hash = "438f2ea807d320168cd964bc8403257b56379d25eeb810652ae0cf975d3f9b8b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0d20aadfd4d579190984472e725558844508e67f091ecf6a8947cb0ff13cfbd6"
+hash = "0b170526ca4e4615ee6f88dbb4339a946346db60f5bd13cd8343ad294f2b99e4"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "bc8776ace845618026df08cdb3ae1249c6458df78afe87c702d9d9ac63a558c8"
+hash = "6c386ad479e5103b2ebc732c000d68b0d0057459f58ea042c6bbf5239ed72737"
 metafile = true
 
 [[files]]
